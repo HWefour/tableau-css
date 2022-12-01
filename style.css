@@ -1,0 +1,23 @@
+table {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    border-collapse: collapse;
+}
+
+td { 
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+
+}
+th { 
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    background-color: lightseagreen;
+
+}
+#ghibli {
+    margin-top: 50px;
+}
